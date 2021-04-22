@@ -1,5 +1,5 @@
 # Python-MySQL-practice-codes
-![Python-MySQL](https://tech-cookbook.com/wp-content/uploads/2019/10/python_mysql-750x331.png "PyMySQL")
+![Python-MySQL](https://tech-cookbook.com/wp-content/uploads/2019/10/python_mysql-750x331.png "Connecting Python with MySQL using MySQL Connector...")
 
 This repo contains practice code of accessing the MySQL DBMS using python.
 Resource for installing the MySQL server on your local machine can be found [here](https://www.youtube.com/watch?v=OM4aZJW_Ojs).
